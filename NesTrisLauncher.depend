@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1667151691 source:c:\coding\gui\nestrislauncher\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<shlobj.h>
+	<stdio.h>
+	"resource.h"
+	<string>
+	<fstream>
+
+1667071735 c:\coding\gui\nestrislauncher\resource.h
+
+1667071926 source:c:\coding\gui\nestrislauncher\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
